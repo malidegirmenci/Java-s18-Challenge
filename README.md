@@ -16,7 +16,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * İçerisinde ```Spring Web``` dependency eklenmeli.
  * Maven dependency management sistemini kullanarak tüm dependencyleri install edin.
  * Uygulamanızı  ```8080``` portundan ayağa kaldırın.
- * Bir banka uygulaması için rest api dizayn etmeniz istenmektedir.
+ * Bir kütüphane uygulaması için rest api dizayn etmeniz istenmektedir.
 
 ### Görev 1
 * Veri tabanı dizaynınız şu şekilde olmalı. Toplam 3 tablo yazmanız gerekmektedir.
